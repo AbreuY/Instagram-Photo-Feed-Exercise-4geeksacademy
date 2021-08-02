@@ -1,0 +1,48 @@
+body{
+	background: lightgray;
+	margin: 0;
+}
+header{
+	background: white;
+	padding: 10px;
+
+}
+header h1{
+	margin: 0;
+
+}
+
+div.wrapper{
+	width: 600px;
+	margin: auto;
+}
+
+div.post{
+	background: white;
+}
+div.post img{
+	width: 100%;
+}
+
+
+
+div.post-header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+height: 30px
+}
+
+div.post .post-header{
+	margin-top: 40px;
+	padding: 10px;
+}
+
+#numbers{
+	color: lightgray;
+}
+#description{
+	padding: 10px;
+}
+
+
